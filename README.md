@@ -11,9 +11,7 @@ prescripto-full-stack/
 ├── admin/ → Admin dashboard (React + Tailwind + Vite)
 ├── backend/ → RESTful API server (Node.js + Express + MongoDB)
 
-yaml
-Copy
-Edit
+
 
 ---
 
